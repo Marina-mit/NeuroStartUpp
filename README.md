@@ -12,7 +12,8 @@
 4. Дизайн-студия имени Слишком известного 
 
 # Ниже пример кода из нашего приложения: 
-  ```.selector {
+  ```css
+  .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
